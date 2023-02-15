@@ -1,5 +1,5 @@
 # brain_images_analysis
-This repository includes ML algorithms to classify different types of clinical data, such as cognitive scores or biochemical parameters.
+This repository includes scripts to visualise MRI data, extract overall measures (max, min, mean, variance) and correlate them with cognitive scores.
 
 ## Links to the notebooks
   * [Cerebral blood flow plots and overall measures](https://github.com/mirentamayoelizalde/brain_images_analysis/blob/master/CBF_plots_and_measures.ipynb)
